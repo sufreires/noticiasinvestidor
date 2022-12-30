@@ -12,6 +12,8 @@ php artisan migrate
 - Rodar seeds para popular o banco com categorias e notícias de teste
 php artisan db:seed
 
+URL Demo do Projeto
+https://noticiasinvestidor.000webhostapp.com/investidornoticias/public/
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
