@@ -1,3 +1,18 @@
+Desenvolvido em PHP 7.3 e Mysql
+
+Instruções de instalação:
+
+- Clonar o Projeto na raiz do servidor
+
+- Configurar .env com os dados do respectivo banco de dados Mysql
+
+- Rodar as migrations para criação de tabelas
+php artisan migrate
+
+- Rodar seeds para popular o banco com categorias e notícias de teste
+php artisan db:seed
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
